@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>JEE MOCK TEST</title>
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <div class="elfsight-app-4db61ed7-5a74-4f3d-8c2c-998e89cc7c01"></div>
+</head>
+<body>
+    <h1 style="text-align: center;color: blue;">JEE MOCK TEST</h1>
+    <h2 style="text-decoration: solid;">SECTION C - MATHS</h2>
+    <P style="margin-left: 15px;font-size: 20px;">1.The locus of the mid-point of the line segment joining the focus of the parabola y2 = 4ax to
+         a moving point of the parabola, is another parabola whose directrix is:
+
+    </P>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="x = a">x = a</p> 
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="x=0">x=0</p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="x=a/2">x=a/2</p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="x=-a/2">x=-a/2</p>
+    <p style="margin-left: 15px;font-size: 20px;">2.A scientific committee is to formed from 6 Indians and 8 foreigners, which includes at
+         least 2 Indians and double the number of foreigners as Indians. Then the number of ways, the committee can be formed is:
+
+    </p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="80">80</p> 
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="40">40</p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="1625">1625</p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="1600">1600</p>
+    <p style="margin-left: 15px;font-size: 20px;">3.The equation of the plane passing through the point (1,2,–3) and perpendicular to the planes 
+        3x + y – 2z = 5 and 2x – 5y – z = 7, is:</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="3x – 10y – 2z + 11 = 0">3x – 10y – 2z + 11 = 0</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="6x – 5y – 2z – 2 = 0">6x – 5y – 2z – 2 = 0</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="11x + y + 17z + 38 = 0">11x + y + 17z + 38 = 0</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="6x – 5y + 2z + 10 = 0">6x – 5y + 2z + 10 = 0</p>
+     <p style="margin-left: 15px;font-size: 20px;">4.A man is walking on a straight line. The arithmetic mean of the reciprocals of the intercepts of this line
+         on the coordinate axes is 1/4. Three stones A, B and C are placed at the points (1,1),(2,2), and (4,4) respectively. 
+         Then which of these stones is/are on the path of the man?
+
+    </p>   
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value=" B only"> B only</p> 
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="A only">A only</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="C only">C only</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="all three">all three</p>
+    <p style="margin-left: 15px;font-size: 20px;"> 5.The statement among the following that is a tautology is:
+    </p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value=" A∧(A∨B)"> A∧(A∨B)</p> 
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value="B→[A∧(A→B)]">B→[A∧(A→B)]</p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value=" A∨(A∧B)"> A∨(A∧B)</p>
+    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value="[A∧(A→B)]→B">[A∧(A→B)]→B</p>
+    <p style="margin-left: 15px;font-size: 20px;">6. Let f :R→R be defined as f(x) = 2x-1 and g:R - {1} →R be defined as g(x) = (x-½)/(x-1).
+
+        Then the composition function f(g(x)) is:
+        
+        </p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value="  Both one-one and onto">  Both one-one and onto</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value="onto but not one-one">onto but not one-one</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value=" Neither one-one nor onto"> Neither one-one nor onto</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value="one-one but not onto">one-one but not onto</p>
+        <p style="margin-left: 15px;font-size: 20px;">7.If f:R→ R is a function defined by f(x) = [x - 1] cos ((2x - 1)/2)𝜋 , where [.] denotes the greatest integer
+             function, then f is:
+             </p>
+
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value=" discontinuous only at x = 1">discontinuous only at x = 1</p> 
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value="discontinuous at all integral values of x except at x = 1">discontinuous at 
+                all integral values of x except at x = 1</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value=" continuous only at x = 1">continuous only at x = 1</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value="continuous for every real x">continuous for every real x</p>
+             <p style="margin-left: 15px;font-size: 20px;">8.The function f(x) = (4x3- 3x2)/6 - 2sin x + (2x - 1)cos x:</p>
+
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value=" increases in [1/2, ∞)"> increases in [1/2, ∞)</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="decreases (-∞, 1/2]">decreases (-∞, 1/2]</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="increases in (-∞, 1/2]">increases in (-∞, 1/2]</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="decreases [1/2, ∞)">decreases [1/2, ∞)</p>
+             <p style="margin-left: 15px;font-size: 20px;">9.The distance of the point (1, 1, 9) from the point of intersection of the line (x - 3)/1 = (y - 4)/2 = (z - 5)/2 and
+                 the plane x + y + z = 17 is:
+
+            </p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value="√38">√38</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value="19√2">19√2</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value="2√19">2√19</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value=" 38"> 38</p>
+                <p style="margin-left: 15px;font-size: 20px;">10.If the tangent to the curve y = x3 at the point P(t, t3) meets the curve again at Q, then the ordinate of the point 
+                    which divides PQ internally in the ratio 1:2 is:</p>
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="–2t3">–2t3</p>
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="–t3">–t3</p>
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="0">0</p>
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="2t3">2t3</p>
+                    <P style="margin-left: 15px;font-size: 20px;">11.The locus of the mid-point of the line segment joining the focus of the parabola y2 = 4ax to
+                        a moving point of the parabola, is another parabola whose directrix is:
+               
+                   </P>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="x = a">x = a</p> 
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="x=0">x=0</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="x=a/2">x=a/2</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="x=-a/2">x=-a/2</p>
+                   <p style="margin-left: 15px;font-size: 20px;">12.A scientific committee is to formed from 6 Indians and 8 foreigners, which includes at
+                        least 2 Indians and double the number of foreigners as Indians. Then the number of ways, the committee can be formed is:
+               
+                   </p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="80">80</p> 
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="40">40</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="1625">1625</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="1600">1600</p>
+                   <p style="margin-left: 15px;font-size: 20px;">13.The equation of the plane passing through the point (1,2,–3) and perpendicular to the planes 
+                       3x + y – 2z = 5 and 2x – 5y – z = 7, is:</p>
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="3x – 10y – 2z + 11 = 0">3x – 10y – 2z + 11 = 0</p> 
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="6x – 5y – 2z – 2 = 0">6x – 5y – 2z – 2 = 0</p>
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="11x + y + 17z + 38 = 0">11x + y + 17z + 38 = 0</p>
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="6x – 5y + 2z + 10 = 0">6x – 5y + 2z + 10 = 0</p>
+                    <p style="margin-left: 15px;font-size: 20px;">14.A man is walking on a straight line. The arithmetic mean of the reciprocals of the intercepts of this line
+                        on the coordinate axes is 1/4. Three stones A, B and C are placed at the points (1,1),(2,2), and (4,4) respectively. 
+                        Then which of these stones is/are on the path of the man?
+               
+                   </p>   
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value=" B only"> B only</p> 
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="A only">A only</p>
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="C only">C only</p>
+                    <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="all three">all three</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> 15.The statement among the following that is a tautology is:
+                   </p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value=" A∧(A∨B)"> A∧(A∨B)</p> 
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value="B→[A∧(A→B)]">B→[A∧(A→B)]</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value=" A∨(A∧B)"> A∨(A∧B)</p>
+                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value="[A∧(A→B)]→B">[A∧(A→B)]→B</p>
+                   <p style="margin-left: 15px;font-size: 20px;">16. Let f :R→R be defined as f(x) = 2x-1 and g:R - {1} →R be defined as g(x) = (x-½)/(x-1).
+               
+                       Then the composition function f(g(x)) is:
+                       
+                       </p>
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="  Both one-one and onto">  Both one-one and onto</p> 
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="onto but not one-one">onto but not one-one</p>
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value=" Neither one-one nor onto"> Neither one-one nor onto</p>
+                       <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="one-one but not onto">one-one but not onto</p>
+                       <p style="margin-left: 15px;font-size: 20px;">17.If f:R→ R is a function defined by f(x) = [x - 1] cos ((2x - 1)/2)𝜋 , where [.] denotes the greatest integer
+                            function, then f is:
+                            </p>
+               
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value=" discontinuous only at x = 1">discontinuous only at x = 1</p> 
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value="discontinuous at all integral values of x except at x = 1">discontinuous at 
+                               all integral values of x except at x = 1</p>
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value=" continuous only at x = 1">continuous only at x = 1</p>
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value="continuous for every real x">continuous for every real x</p>
+                            <p style="margin-left: 15px;font-size: 20px;">18.The function f(x) = (4x3- 3x2)/6 - 2sin x + (2x - 1)cos x:</p>
+               
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value=" increases in [1/2, ∞)"> increases in [1/2, ∞)</p>
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="decreases (-∞, 1/2]">decreases (-∞, 1/2]</p>
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="increases in (-∞, 1/2]">increases in (-∞, 1/2]</p>
+                            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="decreases [1/2, ∞)">decreases [1/2, ∞)</p>
+                            <p style="margin-left: 15px;font-size: 20px;">19.The distance of the point (1, 1, 9) from the point of intersection of the line (x - 3)/1 = (y - 4)/2 = (z - 5)/2 and
+                                the plane x + y + z = 17 is:
+               
+                           </p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="√38">√38</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="19√2">19√2</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="2√19">2√19</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value=" 38"> 38</p>
+                               <p style="margin-left: 15px;font-size: 20px;">20.If the tangent to the curve y = x3 at the point P(t, t3) meets the curve again at Q, then the ordinate of the point 
+                                   which divides PQ internally in the ratio 1:2 is:</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="–2t3">–2t3</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="–t3">–t3</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="0">0</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="2t3">2t3</p>
+                                       
+                                   <P style="margin-left: 15px;font-size: 20px;">21.The locus of the mid-point of the line segment joining the focus of the parabola y2 = 4ax to
+                                    a moving point of the parabola, is another parabola whose directrix is:
+                           
+                               </P>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="x = a">x = a</p> 
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="x=0">x=0</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="x=a/2">x=a/2</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="x=-a/2">x=-a/2</p>
+                               <p style="margin-left: 15px;font-size: 20px;">22.A scientific committee is to formed from 6 Indians and 8 foreigners, which includes at
+                                    least 2 Indians and double the number of foreigners as Indians. Then the number of ways, the committee can be formed is:
+                           
+                               </p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="80">80</p> 
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="40">40</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="1625">1625</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="1600">1600</p>
+                               <p style="margin-left: 15px;font-size: 20px;">23.The equation of the plane passing through the point (1,2,–3) and perpendicular to the planes 
+                                   3x + y – 2z = 5 and 2x – 5y – z = 7, is:</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value="3x – 10y – 2z + 11 = 0">3x – 10y – 2z + 11 = 0</p> 
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value="6x – 5y – 2z – 2 = 0">6x – 5y – 2z – 2 = 0</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value="11x + y + 17z + 38 = 0">11x + y + 17z + 38 = 0</p>
+                                   <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value="6x – 5y + 2z + 10 = 0">6x – 5y + 2z + 10 = 0</p>
+                                <p style="margin-left: 15px;font-size: 20px;">24.A man is walking on a straight line. The arithmetic mean of the reciprocals of the intercepts of this line
+                                    on the coordinate axes is 1/4. Three stones A, B and C are placed at the points (1,1),(2,2), and (4,4) respectively. 
+                                    Then which of these stones is/are on the path of the man?
+                           
+                               </p>   
+                                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value=" B only"> B only</p> 
+                                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="A only">A only</p>
+                                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="C only">C only</p>
+                                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="all three">all three</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> 25.The statement among the following that is a tautology is:
+                               </p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value=" A∧(A∨B)"> A∧(A∨B)</p> 
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value="B→[A∧(A→B)]">B→[A∧(A→B)]</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value=" A∨(A∧B)"> A∨(A∧B)</p>
+                               <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value="[A∧(A→B)]→B">[A∧(A→B)]→B</p>
+                                
+                               <button type="submit" style=" border: 50px;font-size: 30px; background-color: purple;">SUMBIT</button>                
+                
+             
+   
+ 
+</body>
+</html>

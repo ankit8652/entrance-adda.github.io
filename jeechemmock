@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width" initial-scale=1.0">
+    <title>JEE MOCK TEST</title>
+    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <div class="elfsight-app-4db61ed7-5a74-4f3d-8c2c-998e89cc7c01"></div>
+</head>
+<body>
+    <h1 style="text-align: center;color: blue;">JEE MOCK TEST</h1>
+    <h2 style="text-decoration: solid;">SECTION B - CHEMISTRY</h2>
+    <p style="margin-left: 15px;font-size: 20px;">1. Which force is responsible for the stacking of the α-helix structure of protein?
+         Hydrogen (1H, 2H, 3H) is ________?
+     </p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="H- bond">H-bond</p> 
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="ionic bond">ionic bond</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="covalant bond">covalan bond</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 1" value="vander wall">vander wall</p>
+     <p style="margin-left: 15px;font-size: 20px;"> 2.The gas evolved due to anaerobic degradation of vegetation causes:
+    </p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="global warming">global warming</p> 
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="acid rain">acid rain</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="ozone hole">ozone hole</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 2" value="metal corroison">metal corroison</p>
+     
+     <p style="margin-left: 15px;font-size: 20px;">3.Which reagent (A) is used for the following given conversion?
+    CH3-CH2-CH3 +(A) ->CH3-CH2-COH</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="cu">cu</p> 
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="Molybdenum Oxide">Molybdenum Oxide</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="Manganese Acetate">Manganese Acetate</p>
+     <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 3" value="Potassium Permanganate">Potassium Permanganate</p>
+     <p style="margin-left: 15px;font-size: 20px;" >4.Which of the following pairs are isostructural
+
+        a) TiCl4, SiCl4
+        
+        b) SO2-3, CrO2-3
+        
+        c) NH3, NO-3
+        
+        d) ClF3, BCl3</p>
+
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="A,C">A,C</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="A,B">A,B</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="B,D">B,D</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 4" value="A,D">A,D</p>
+        <p  style="margin-left: 15px;font-size: 20px;">5.Which of the following ores are concentrated by cyanide of group 1st element?</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value="Sphalerite">Sphalerite</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value="Malachite">Malachite</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value="Calamine">Calamine</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 5" value="Siderite">Siderite</p>
+        <p style="margin-left: 15px;font-size: 20px;">6.S-1: Colourless cupric metaborate is converted into cuprous metaborate in a luminous flame.</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value=" S-1 is true and S-2 is false
+            "> S-1 is true and S-2 is false
+        </p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value=" S-1 is true and S-2 is false
+            "> S-1 is true and S-2 is false
+        </p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value="Both are false">Both are false</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 6" value="Both are true">Both are true</p>
+        <p style="margin-left: 15px;font-size: 20px;">7.In the given reactions,
+
+            1) I2 + H2O2 + 2OH- → 2I- + 2H2O + O2
+            
+            2) H2O2 + HOCl → Cl- + H3O+ + O2
+            
+            </p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value="H2O2 acts as a reducing agent in both the reactions">H2O2 acts as a reducing agent in both the reactions</p> 
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value="H2O2 acts as an oxidising agent in both the reactions">H2O2 acts as an oxidising agent in both the reactions</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value="H2O2 acts as an oxidising agent in reaction (1) and as a reducing agent in reaction (2)
+                ">H2O2 acts as an oxidising agent in reaction (1) and as a reducing agent in reaction (2)
+            </p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 7" value="H2O2 acts as a reducing agent in reaction (1) and as an oxidizing agent in reaction (2)
+                ">H2O2 acts as a reducing agent in reaction (1) and as an oxidizing agent in reaction (2)
+            </p>
+        <p style="margin-left: 15px;font-size: 20px;">8.EoM2+/ M has a positive value for which of the following elements of 3d transition series?
+
+        </p>    
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="cu">cu</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="zn">zn</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="br">br</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 8" value="co">co</p>
+     <p  style="margin-left: 15px;font-size: 20px;">9.Identify X, Y, Z in the given reaction sequence.
+        AL+NAOH->X+Y->Z
+         </p>  
+         <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value="X = Na[Al(OH)4] ; Y = CO2 ; Z = Al2O3.xH2O">X = Na[Al(OH)4] ; Y = CO2 ; Z = Al2O3.xH2O</p> 
+         <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value=" X = Na[Al(OH)4] ; Y = SO2 ; Z = Al2O3.xH2O"> X = Na[Al(OH)4] ; Y = SO2 ; Z = Al2O3.xH2O</p>
+         <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value="X = Al(OH)3 ; Y = CO2 ; Z = Al2O3">X = Al(OH)3 ; Y = CO2 ; Z = Al2O3</p>
+         <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 9" value="none of the above">none</p>
+       
+       <p style="margin-left: 15px;font-size: 20px;">10.The composition of gun metal is:</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="Al, Mg, Mn, Cu">Al, Mg, Mn, Cu</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="Cu, Zn, Sn">Cu, Zn, Sn</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="Cu, Ni, Fe">Cu, Ni, Fe</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 10" value="Cu, Ni, Fe">Cu, Ni, Fe</p>
+       <p style="margin-left: 15px;font-size: 20px;">11.For the given reaction at equilibrium, moles of Cl2(g) is equal to the moles of Cl(g) and the equilibrium pressure is 1atm. 
+        If Kp of this reaction is x ×10–1, find x.</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="7">7</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="12">12</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="5">5</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 11" value="9">9</p>
+        <p style="margin-left: 15px;font-size: 20px;">12.S8 + bOH- → cS2- + sS2O2-3 + H2O. Find the value of c.
+        </p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="70">70</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="14">14</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="5">5</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 12" value="4">4</p>
+        <p style="margin-left: 15px;font-size: 20px;">13. Calculate the time taken in seconds for 40% completion of a first order reaction, if its rate constant is 3.3× 10-4 sec-1.
+
+        </p>
+
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="20">20</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="1518">1518</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="59">59</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 13" value="50">50</p>
+        <p style="margin-left: 15px;font-size: 20px;">14.For a chemical reaction, Keq is 100 at 300K, the value of ΔGo is –xR Joule at 1 atm pressure. 
+            Find the value of x. (Use ln 10 = 2.3)
+        </p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="200">200</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="100">100</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="1382">1382</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 14" value="50">50</p>
+        <p style="margin-left: 15px;font-size: 20px;">15.Cu2+ + NH3 ⇌ [Cu(NH3)]2+ K1 = 104 then value of k1</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value="1.26">1.26</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value="126">126</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value="0.126">0.126</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 15" value="0">0</p>
+        <p style="margin-left: 15px;font-size: 20px;">16. 9.45g of CH2ClCOOH is dissolved in 500 mL of H2O solution and the depression 
+            in freezing point of the solution is 0.5°C. Find the percentage dissociation.
+        </p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="40">40%</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="34.4">34.4%</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="50">50%</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 16" value="10">10%</p>
+        <P style="margin-left: 15px;font-size: 20px;">17.What is the coordination number in Body Centered Cubic
+             (BCC) arrangement of identical particles?
+
+        </P>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value="2">2</p> 
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value="4">4</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value="8">8</p>
+        <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 17" value="10">10</p>
+        <p style="margin-left: 15px;font-size: 20px;">18.Among the following compounds, how many are amphoteric in nature?
+
+            Be(OH)2, BeO, Ba(OH)2, Sr(OH)2
+            
+            </p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="1">1</p> 
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="3">3</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="2">2</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 18" value="4">4</p>
+            <p style="margin-left: 15px;font-size: 20px;">19.4.5 g of a solute having molar mass of 90 g/mol is dissolved in water
+                 to make a 250 mL solution. Calculate the molarity of the solution.
+                </p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="1">1</p> 
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="20">20</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="2">2</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 19" value="0.2">0.2</p>
+            <p style="margin-left: 15px;font-size: 20px;">20.The mass of Li3+ is 8.33 times the mass of a proton. If Li3+ and proton are accelerated through
+                 the same potential difference, then the ratio of de Broglie's wavelength of Li3+ to proton is x ×10–1. Find x
+                </p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="2">2</p> 
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="4">4</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="6">6</p>
+                <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 20" value="8">8</p>
+                
+            <p style="margin-left: 15px;font-size: 20px;">21.the incorrect statement among the following is:</p>   
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="VOSO4 is a reducing agent">VOSO4 is a reducing agent</p> 
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="Red color of ruby is due to the presence of CO3+">Red color of ruby is due to the presence of CO3+</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="Cr2O3 is an amphoteric oxide">Cr2O3 is an amphoteric oxide</p>
+             <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 21" value="RuO4 is an oxidizing agent">RuO4 is an oxidizing agent</p>
+             <p style="margin-left: 15px;font-size: 20px;">22.The correct shape and I-I-I bond angles respectively in I-3 ion are:
+            </p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="Trigonal planar; 120">Trigonal planar; 120o</p> 
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value=" Distorted trigonal planar; 135o and 90o"> Distorted trigonal planar; 135o and 90o</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="Linear; 180º">Linear; 180º</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 22" value="T-shaped; 180º and 90º">T-shaped; 180º and 90º</p>
+            <p style="margin-left: 15px;font-size: 20px;">23.What is the correct order of the following elements with respect to their density?
+            </p>
+            <p style="margin-left: 15px;font-size: 20px;"><input type="radio" name="question 23" value="Cr < Fe < Co < Cu < Zn">Cr < Fe < Co < Cu < Zn
+            </p> 
+            
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value=" Cr < Zn < Co < Cu < Fe">  Cr < Zn < Co < Cu < Fe</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value="Zn < Cu < Co < Fe < Cr">Zn < Cu < Co < Fe < Cr</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 23" value="Zn < Cr < Fe < Co < Cu">Zn < Cr < Fe < Co < Cu</p>
+            <p style="margin-left: 15px;font-size: 20px;">24. In polymer Buna-S: 'S' stands for</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="Styrene">Styrene</p> 
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="sulphur">sulphur</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="Strength">Strength</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 24" value="Sulphonation">Sulphonation</p>
+            <p style="margin-left: 15px;font-size: 20px;">25.Most suitable salt which can be used for efficient clotting of blood will be:
+            </p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value="Mg(HCO3)2">Mg(HCO3)2</p> 
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value="FeSO4">FeSO4</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value="NaHCO3">NaHCO3</p>
+            <p style="margin-left: 15px;font-size: 20px;"> <input type="radio" name="question 25" value=" FeCl3"> FeCl3</p>
+            <button type="submit" style=" border: 50px;font-size: 30px; background-color: purple;">SUMBIT</button>
+          
+
+            
+            
+
+            
+            
+          
+            
+</body>
+</html>

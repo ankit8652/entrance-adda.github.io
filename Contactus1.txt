@@ -1,0 +1,129 @@
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>Contact us</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap" rel="stylesheet">
+<style>
+     *{
+     margin: 0;
+     padding: 0;
+}
+body{
+    background: #E1FFCF;
+    font-size: 14px;
+    font-family: 'Zen Antique', serif;
+}
+.container{
+    width: 80%;
+    margin: 50px auto;
+}
+.contact-box{
+    background: white;
+    display: flex;
+}
+.contact-left{
+    flex-basis: 70%;
+    padding: 50px 70px;
+    
+}
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px ;
+    background: #4caf50;
+    color: white;
+}
+h1{
+     margin-bottom: 10px;
+}
+.input-row{
+     display: flex;  
+     justify content: space between;
+     margin-bottom: 20px;
+}
+.input-row  .input-group{
+     flex-basis: 45%;
+}
+input{
+     width: 95%;
+    
+     outline: none;
+     padding-bottom: 5px;
+}
+textarea{
+     width: 100%;
+     border: 1px solid #ccc;
+     outline: none;
+     padding: 5px;  
+     box-sizing: border-box;
+}
+label{
+     margin-bottom: 6px;
+     display: block;
+     color:  #lc00b5;  
+}
+button{
+     background: #lc00b5; 
+     width: 100px;
+     outline: none;
+     color: green;
+     height: 35px;
+     border-radius: 30px;
+     margin-top: 20px;
+     
+}
+.contact-left h2{
+     color:green;
+     font-weight: 600;
+     margin-bottom: 20px;
+}
+
+.contact-right h2{
+     
+     font-weight: 600;
+     margin-bottom: 30px;
+}
+</style>
+</head>
+<body>
+     <div class="container">
+          <h1>Connect with us</h1>
+          <div class="contact-box">
+               <div class="contact-left">
+                   <h2>General Enquiry</h2>
+                   <form>
+                     <div class="input-row">
+                        <div class="input-group">
+                           <label>First Name</label>
+                           <input type="text" placeholder="Enter First name">
+                        </div>
+                        <div class="input-group">
+                           <label>Last Name</label>
+                           <input type="text" placeholder="Enter Last name">
+                        </div>
+                     </div>
+                     <div class="input-row">
+                        <div class="input-group">
+                           <label>Email</label>
+                           <input type="email" placeholder="Enter Email">
+                        </div>
+                        <div class="input-group">
+                           <label>Phone</label>
+                           <input type="text" placeholder="Enter Phone number">
+                        </div>
+                     </div>
+
+                       <label>Message</label>      
+                       <textarea rows="5" placeholder="Your message"></textarea>                 
+                        
+                       <button type="submit" >SUBMIT</button>
+                   </form>
+               </div>
+               <div class="contact-right">
+                   <h3>Reach us</h3>
+               </div>
+          </div>
+     </div>
+</body>
+</html>
